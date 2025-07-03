@@ -26,3 +26,7 @@ Python | Pandas | KMeans | Seaborn | SQLAlchemy | PostgreSQL | Power BI
 🧊 Frugal users: Low ROI, limited campaign investment
 
 📦 Balanced shoppers: Perfect for upselling & nurturing strategies
+
+📁 Outputs:
+- Cleaned & labeled dataset
+- Power BI dashboard for marketing team
