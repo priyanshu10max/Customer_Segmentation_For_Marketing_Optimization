@@ -2,7 +2,7 @@
 
 🚀 Just completed a real-world Customer Segmentation for Marketing Optimization project using K-Means Clustering, and I’m excited to share the insights! 💡
 
-🔍 Project Objective
+🔍 Project Objective :
 To analyze mall customer data and identify distinct customer groups to help businesses personalize marketing, improve engagement, and optimize budget spend.
 
 🛠 Tools & Tech Stack:
