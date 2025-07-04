@@ -30,5 +30,5 @@ Python | Pandas | KMeans | Seaborn | SQLAlchemy | PostgreSQL | Power BI
 📁 Outputs:
 - Cleaned & labeled dataset
 - Power BI dashboard for marketing team
-- - PostgreSQL database with clustered records
+- PostgreSQL database with clustered records
 
