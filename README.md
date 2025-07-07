@@ -8,7 +8,7 @@ To analyze mall customer data and identify distinct customer groups to help busi
 
 🛠 Tools & Tech Stack:
 
-Python | Pandas | KMeans | Seaborn | SQLAlchemy | PostgreSQL | Power BI
+Python | Pandas | KMeans | Seaborn | PostgreSQL | Power BI
 
 📊 Approach:
 
