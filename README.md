@@ -17,9 +17,13 @@ Python | Pandas | KMeans | Seaborn | PostgreSQL | Power BI
 
 📈 Key Insights from Segments:
 🎯 High-value customers: Premium campaigns & loyalty rewards
+
 📉 Unengaged wealthy users: Re-engagement via brand storytelling
+
 🛍️ Budget-conscious active shoppers: Target with discounts & bundles
+
 🧊 Frugal users: Low ROI, limited campaign investment
+
 📦 Balanced shoppers: Perfect for upselling & nurturing strategies
 
 📁 Outputs:
