@@ -16,6 +16,7 @@ Python | Pandas | KMeans | Seaborn | PostgreSQL | Power BI
 ✅ Visualized customer segments and KPIs using Power BI
 
 📈 Key Insights from Segments:
+
 🎯 High-value customers: Premium campaigns & loyalty rewards
 
 📉 Unengaged wealthy users: Re-engagement via brand storytelling
